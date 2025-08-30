@@ -1,4 +1,4 @@
-# 🏨 QuickStay - Hotel Booking Frontend
+# 🏨 QuickStay - Hotel Booking Website
 
 QuickStay is a modern **React + Tailwind CSS** based frontend project for a hotel booking platform.  
 It provides a clean UI to browse hotels, view details, and check availability.  
