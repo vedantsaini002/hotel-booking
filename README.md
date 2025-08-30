@@ -11,7 +11,6 @@ It provides a clean UI to browse hotels, view details, and check availability.
 - 📌 Hotel details page with images & amenities
 - ⭐ Customer ratings and reviews
 - 📅 Booking form (Check-in / Check-out / Guests)
-- 📱 Responsive design (mobile-first)
 - 🎨 Styled with Tailwind CSS
 
 ---
