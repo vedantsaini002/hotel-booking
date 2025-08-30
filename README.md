@@ -1,26 +1,41 @@
-# 🏨 QuickStay
+# 🏨 QuickStay - Hotel Booking Frontend
 
-**QuickStay** is a **fully responsive hotel booking platform** built with **ReactJS**, focusing mainly on frontend development to provide a seamless user experience for customers and hotel partners.
-
----
-
-## 🚀 Features
-
-- 🔹 Responsive UI compatible with desktop, tablet, and mobile devices  
-- 🔹 User authentication via [Clerk](https://clerk.com/) with pre-built sign-in/sign-up components  
-- 🔹 Dynamic hotel listings with detailed room information  
-- 🔹 Admin panel for hotel partners to manage properties and bookings  
-- 🔹 Clean, modular React component architecture for easy maintenance  
-- 🔹 Responsive design using CSS Flexbox and Grid for accessibility and usability 
+QuickStay is a modern **React + Tailwind CSS** based frontend project for a hotel booking platform.  
+It provides a clean UI to browse hotels, view details, and check availability.  
 
 ---
 
-## 🛠 Tech Stack
+## ✨ Features
+- 🏠 Homepage with hotel listings
+- 🔍 Search hotels by location
+- 📌 Hotel details page with images & amenities
+- ⭐ Customer ratings and reviews
+- 📅 Booking form (Check-in / Check-out / Guests)
+- 📱 Responsive design (mobile-first)
+- 🎨 Styled with Tailwind CSS
 
-- **Frontend:** React.js, Tailwind CSS
-- **Routing:** React Router DOM
-- **State Management:** React Hooks
-- **Icons & UI:** Custom components + utility-first CSS
+---
+
+## 📂 Project Structure
+│── public/ # Static files
+│── src/
+│ ├── assets/ # Images, icons, dummy data
+│ ├── components/ # Reusable UI components
+│ ├── pages/ # Page components (Home, RoomDetails, etc.)
+│ ├── App.js # Main app routes
+│ ├── index.js # React entry point
+│── .env.example # Environment variable template
+│── package.json # Dependencies & scripts
+│── tailwind.config.js # Tailwind setup
+
+---
+
+## ⚙️ Tech Stack
+- **React.js** (Frontend framework)
+- **React Router** (Navigation)
+- **Tailwind CSS** (UI styling)
+- **JavaScript (ES6+)**
+- **Vite / CRA** (depending on setup)
 
 ---
 
