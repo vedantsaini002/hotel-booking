@@ -15,20 +15,6 @@ It provides a clean UI to browse hotels, view details, and check availability.
 
 ---
 
-## 📂 Project Structure
-│── public/ # Static files
-│── src/
-│ ├── assets/ # Images, icons, dummy data
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Page components (Home, RoomDetails, etc.)
-│ ├── App.js # Main app routes
-│ ├── index.js # React entry point
-│── .env.example # Environment variable template
-│── package.json # Dependencies & scripts
-│── tailwind.config.js # Tailwind setup
-
----
-
 ## ⚙️ Tech Stack
 - **React.js** (Frontend framework)
 - **React Router** (Navigation)
