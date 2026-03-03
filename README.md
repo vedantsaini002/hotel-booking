@@ -12,7 +12,7 @@ It provides a clean UI to browse hotels, view details, and check availability.
 - ⭐ Customer ratings and reviews
 - 📅 Booking form (Check-in / Check-out / Guests)
 - 🎨 Styled with Tailwind CSS
-- 
+ 
 ---
 
 ## ⚙️ Tech Stack
