@@ -1,5 +1,6 @@
-console.log("Clerk Key:", import.meta.env.VITE_CLERK_PUBLISHABLE_KEY);
-
+// console.log("Clerk Key:", import.meta.env.VITE_CLERK_PUBLISHABLE_KEY);
+ClerkProvider publishableKey={import.meta.env.VITE_CLERK_PUBLISHABLE_KEY}
+  
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import "./index.css";
