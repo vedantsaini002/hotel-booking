@@ -20,7 +20,7 @@ It provides a clean UI to browse hotels, view details, and check availability.
 - **React Router** (Navigation)
 - **Tailwind CSS** (UI styling)
 - **JavaScript (ES6+)**
-- **Vite / CRA** (depending on setup)
+- **Vite**
 
 ---
 
